@@ -1,4 +1,4 @@
-/* General styles */
+
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -185,7 +185,7 @@ footer {
 }
 
 
-/* Responsive Styles */
+
 @media (max-width: 768px) {
   nav ul li {
     display: block;
